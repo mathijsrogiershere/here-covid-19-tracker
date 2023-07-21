@@ -31,7 +31,7 @@
     "gatsby-source-filesystem": "^2.1.40",
     "gatsby-transformer-sharp": "^2.3.6",
     "ibm-design-colors": "^2.0.4",
-    "leaflet": "^1.6.0",
+    "leaflet": "^1.9.4",
     "lodash": "^4.17.15",
     "material-ui-colors": "^1.0.0",
     "open-color": "^1.7.0",
