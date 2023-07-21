@@ -9,7 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "d3-dsv": "^1.2.0",
-    "dayjs": "^1.8.20",
+    "dayjs": "^1.11.8",
     "googleapis": "39",
     "lodash": "^4.17.15",
     "node-fetch": "^2.6.0"
